@@ -1,3 +1,27 @@
-I prioritize working on projects that envolve reverse engineering, bug exploitation and ethical hacking.
+```bash
+┌────────────────────────────────────────────────────────┐
+│ guest@luckfiel:~                                       │
+└────────────────────────────────────────────────────────┘
+$ whoami
+Luckfiel
 
-Most of my knowledge is present in C++ and reversing with IDA.
+$ uptime -p
+up 17 years
+
+$ echo "role & focus"
+role: Reverse Engineer / Security Researcher
+focus: Static analysis · Application security
+
+$ echo "languages"
+- C++
+- Python
+
+$ echo "tools"
+- Visual Studio 2022
+- VS Code
+- IDA Pro
+- ReClass.Net
+
+$ exit
+logout
+```
